@@ -1,0 +1,7 @@
+# Packages managers stuff
+package-lock.json
+yarn.lock
+node_modules
+
+# Config contains secret values and should be never commited
+src/conf.json

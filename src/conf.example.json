@@ -1,0 +1,11 @@
+{
+    "token": "your discord token",
+    "gitlabs": [
+        {
+            "token": "a random gitlab token",
+            "users": {
+                "gitlab user email": "discord id"
+            }
+        }
+    ]
+}
